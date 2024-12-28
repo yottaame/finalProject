@@ -1,6 +1,17 @@
 # 112321030 FinalProject
 Authors: 112321030
 
+**Input/Output unit:**
+- 8x8 LED 矩陣，用來顯示對戰畫面
+  ![image](https://github.com/user-attachments/assets/9eededd5-deb7-4062-a3f0-c128c1a07524)
+
+- 七段顯示器，用來顯示剩餘時間和計分
+  ![image](https://github.com/user-attachments/assets/465e8f28-0972-40ff-afeb-388166ee39c2)
+
+- LED 陣列，用來顯示子彈續力和目前關卡
+  ![image](https://github.com/user-attachments/assets/2959eb61-ec30-4f7c-8bc9-43cbe86cb1cc)
+
+
 **功能說明:**
 
 - [x] 子彈發射顯示
